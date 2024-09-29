@@ -25,8 +25,8 @@ DevSlide is a presentation tool designed for developers to create and deliver co
 
 1. Clone the repository:
    ```bash
-   git clone http://scc-source.lancs.ac.uk/scc210-2023-24/scc210-2324-grp-51.git
-   cd scc210-2324-grp-51
+   git clone https://github.com/akshobhsingh1337/DevSlide.git
+   cd DevSlide/
    ```
 
 2. Build the project:
